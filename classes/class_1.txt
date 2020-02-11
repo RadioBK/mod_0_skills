@@ -1,0 +1,12 @@
+CLASS: beverages
+
+ATTRIBUTES: Alchol by volume (Float)
+            Carbonation (Boolean)
+            Glass type (Boolean)
+            Origin (String)
+
+METHODS: water_down (Change alcohol percentage)
+        add_carbonation (change the carbonation attribute)
+        change_glass (change glass type, in this example from tallglass to shortglass)
+        change_source (affects the origin attribute. can be local/import, italian sausages..)
+        
