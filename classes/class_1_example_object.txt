@@ -1,0 +1,11 @@
+BEVERAGE: Arnold Palmer
+
+ATTRIBUTES: ABV%: 10%
+            Carbonated: false
+            Glass type: tallglass
+            Origin: USA
+
+METHODS: water_down  (ABV%: changed from 10% to 9%)
+         add_carbonation   (Carbonated: true)
+         change_glass   (shortglass)
+         change_source   (Origin: where the new source is from)
