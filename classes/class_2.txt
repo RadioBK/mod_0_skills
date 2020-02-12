@@ -3,7 +3,7 @@ CLASS: FOOD
 ATTRIBUTES: Temperature (Integer)
             Vegetarian (Boolean)
             Weight (Float)
-            Dish (String)
+            Dish (String) 
 
 METHODS: add_animal_product (affect the vegetarian attribute - true or false)
          change_dish (change the Dish attribute - specific foods are plated on certain dish types. bowl/plate/platter)
