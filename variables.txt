@@ -1,0 +1,22 @@
+
+#Assign a variable called food a string value
+food = 'vegetarian'
+#Assign a variable called is_new to a boolean value
+is_new = true
+#Re-assign your food variable to a new string
+food = 'not vegetarian'
+#Assign a variable called num1 to a numerical value
+num1 = 10
+#Assign a variable called num2 to a numerical value
+num2 = 20
+#Multiply num1 by num2 and store the result in a variable called num3
+num3 = num1 * num2
+#assign a to an array value with 3 elements
+movies = ["Die Hard", "Tombstone", "Friday"]
+
+
+#Remove the last element of the movies array
+movies.slice!(2)  ["Die Hard", "Tombstone", "Friday"]
+
+#Write a line of code that asks how many elements are in the array
+movies.count() 
