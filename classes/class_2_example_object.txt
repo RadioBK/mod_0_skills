@@ -1,0 +1,11 @@
+FOOD: Hamburger
+
+ATTRIBUTES: Temperature: 100
+            Vegetarian: yes
+            Weight: .25
+            Dish: plated
+
+METHODS: add_heat  (changes Temperature from 100 to 105)
+         add_animal_product (changes vegetarian attribute to no)
+         eat_food  (reduces the weight attribute)
+         change_dish  (changes the Dish attribute from plated to anything. example: bowl, napkin)
